@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Urooj
+- 👀 I’m interested in building dynamic and responsive web applications, as well as exploring the latest trends in full stack development.
+- 🌱 I’m currently learning full stack development.
+- 💞️ I’m looking to collaborate on innovative full stack projects that solve real-world problems and enhance user experiences.
+- 📫 How to reach me: Feel free to connect with me on LinkedIn https://www.linkedin.com/in/urooj-aslam/
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love solving Rubik's cubes and learning new things.
